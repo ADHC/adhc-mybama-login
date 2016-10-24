@@ -2,12 +2,12 @@
 /*
 Plugin Name: ADHC MyBama Login
 Plugin URI: 
-Bitbucket Plugin URI: 
+Bitbucket Plugin URI: https://thgraceUA@bitbucket.org/alabamaDH/adhc-mybama-login.git
 GitHub Branch: master
 Description: Allow students to login using their MyBama login.
-Version: 1.0.5
+Version: 1.0.6
 Author: Tyler Grace (ADHC)
-Author URI: https://thgraceUA@bitbucket.org/alabamaDH/adhc-mybama-login.git
+Author URI: 
 Domain Path: /languages
 */
 
