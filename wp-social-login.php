@@ -3,7 +3,7 @@
 Plugin Name: ADHC MyBama Login
 Plugin URI: 
 Description: Allow students to login using their MyBama login.
-Version: 1.0.4
+Version: 1.0.5
 Author: Tyler Grace (ADHC)
 Author URI: 
 Domain Path: /languages
