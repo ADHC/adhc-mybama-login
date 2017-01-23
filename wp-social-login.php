@@ -232,7 +232,7 @@ function _wsl__( $text, $domain )
 /* includes */
 
 # WSL Setup & Settings
-require_once( WORDPRESS_SOCIAL_LOGIN_ABS_PATH . '/includes/settings/wsl.providers.php'            ); // List of supported providers (mostly provided by hybridauth library) 
+require_once( plugin_dir_path( __FILE__ ) . '/includes/settings/wsl.providers.php'            ); // List of supported providers (mostly provided by hybridauth library) 
 require_once( WORDPRESS_SOCIAL_LOGIN_ABS_PATH . '/includes/settings/wsl.database.php'             ); // Install/Uninstall WSL database tables
 require_once( WORDPRESS_SOCIAL_LOGIN_ABS_PATH . '/includes/settings/wsl.initialization.php'       ); // Check WSL requirements and register WSL settings
 require_once( WORDPRESS_SOCIAL_LOGIN_ABS_PATH . '/includes/settings/wsl.compatibilities.php'      ); // Check and upgrade WSL database/settings (for older versions)
